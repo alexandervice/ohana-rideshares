@@ -6,8 +6,6 @@ Ohana Rideshares is a Flask Python Project that allows for account registration 
 
 This is the first project I have ever attempted to deploy and is also the first time I have ever really tried to use a repository in GitHub.
 
-If there are any mistakes it is because I am a n00b.
-
 ## Installation
 
 I *think* the **requirements.txt** file should have all of my installation methods, and it should be good to go. Otherwise you'll need to do the following.
