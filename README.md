@@ -1,6 +1,6 @@
 # Ohana Rideshares
 
-See it in action here: http://18.116.50.34/
+This used to be deployed and hosted with AWS (but I didn't want to pay to host it anymore!)
 
 Ohana Rideshares is a Flask Python Project that allows for account registration and login to then request a ride from other users, choose to drive other riders, view ride details, and leave messages to the rider and/or the driver.
 
