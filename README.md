@@ -6,10 +6,13 @@ Ohana Rideshares is a Flask Python Project that allows for account registration 
 
 ## Installation
 
-I *think* the **requirements.txt** file should have all of my installation methods, and it should be good to go. Otherwise you'll need to do the following.
+```bash
+pip install -r requirements.txt
+```
+
+# If the requirements.txt file does not work
 
 ```bash
-# If the requirements.txt file does not work
 pip install flask PyMySQL flask-bcrypt
 #navigate to the ohana rideshare folder
 pipenv install flask PyMySQL
