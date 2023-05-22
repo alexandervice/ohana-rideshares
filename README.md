@@ -10,7 +10,7 @@ Ohana Rideshares is a Flask Python Project that allows for account registration 
 pipenv install -r requirements.txt
 ```
 
-### If the requirements.txt file does not work
+If the requirements.txt file does not work
 
 ```bash
 pip install flask PyMySQL flask-bcrypt
