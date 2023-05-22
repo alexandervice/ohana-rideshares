@@ -10,6 +10,8 @@ Ohana Rideshares is a Flask Python Project that allows for account registration 
 pipenv install -r requirements.txt
 ```
 
+You will also need to create the database from the ohana-rideshares-schema.mwb in MySQL, otherwise you won't be able to use the project properly.
+
 If the requirements.txt file does not work
 
 ```bash
