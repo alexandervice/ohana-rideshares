@@ -37,6 +37,6 @@ python server.py
 
 [![Ohana ride request](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-ride-request.png)]
 
-[![Ohana user details](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-user-details.png)]
+[![Ohana user details](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-user-info.png)]
 
 [![Ohana schema](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-schema.png)]
