@@ -31,7 +31,7 @@ python server.py
 
 ## Screenshots
 
-[![Ohana all rides](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-all-rides.png)]
+![Ohana all rides](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-all-rides.png)
 
 [![Ohana ride details](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-ride-details.png)]
 
