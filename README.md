@@ -33,12 +33,12 @@ python server.py
 
 ![Ohana all rides](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-all-rides.png)
 
-[![Ohana ride details](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-ride-details.png)]
+![Ohana ride details](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-ride-details.png)
 
-[![Ohana login](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-login.png)]
+![Ohana login](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-login.png)
 
-[![Ohana ride request](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-ride-request.png)]
+![Ohana ride request](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-ride-request.png)
 
-[![Ohana user details](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-user-info.png)]
+![Ohana user details](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-user-info.png)
 
-[![Ohana schema](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-schema.png)]
+![Ohana schema](https://github.com/alexandervice/ohana-rideshares-deploy-flask/blob/main/images/ohana-schema.png)
