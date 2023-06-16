@@ -1,6 +1,6 @@
 # Ohana Rideshares
 
-This used to be deployed and hosted with AWS (but I didn't want to pay to host it anymore!)
+This used to be deployed and hosted with AWS. Please contact me if you want me to restart the instance.
 
 Ohana Rideshares is a Flask Python Project that allows for account registration and login to then request a ride from other users, choose to drive other riders, view ride details, and leave messages to the rider and/or the driver.
 
